@@ -1,0 +1,17 @@
+create a parent div for the whole game platform 
+
+change the border color and radius 
+
+change background color of the parent dive to green 
+
+add the same padding to the top and bottom of the parent 
+
+
+add the same padding to the left and right of the parent 
+
+target the parent graph of the buttons and center them 
+
+increase the height and width of the dealer and player hand
+
+add img of card and create a class
+
