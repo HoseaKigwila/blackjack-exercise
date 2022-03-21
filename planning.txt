@@ -13,5 +13,5 @@ target the parent graph of the buttons and center them
 
 increase the height and width of the dealer and player hand
 
-add img of card and create a class
+add img of card and create a class.
 
