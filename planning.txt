@@ -1,17 +1,41 @@
 create a parent div for the whole game platform 
 
+
 change the border color and radius 
 
+
 change background color of the parent dive to green 
+
 
 add the same padding to the top and bottom of the parent 
 
 
 add the same padding to the left and right of the parent 
 
+
 target the parent graph of the buttons and center them 
+
 
 increase the height and width of the dealer and player hand
 
+
 add img of card and create a class.
+
+use the image folder images to display on the player/dealer hand section.
+
+make the images of cards fit the player/dealer hand section.
+
+
+/////////
+Adding Javascript
+
+Make the variables for the images.
+
+make the variable for the class hand.
+
+test the .appendchild method example | src.appendChild(img); |
+
+us the document.addEventlistener as the parent of the whole Javascripts
+
+
 
